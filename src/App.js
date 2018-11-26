@@ -14,7 +14,7 @@ class App extends Component {
 
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Application title</h1>
+          <h1 className="App-title">Puppy Talk</h1>
         </header>
         <main className="App-main">
           <Timeline
